@@ -2,7 +2,7 @@
     box-sizing: border-box;
   }
   header {
-    background-color: #cc3366;
+    background-color: #488338;
     padding-top: 0.1em;
     padding-bottom: 0.1em;
     padding-left: 3em;
@@ -34,15 +34,16 @@
     margin: 0;
     padding-left: 0;
     font-size: 1.2em;
+    font-weight: 40;
   }
   nav a:link {
-    color: #d5e0ff;
+    color: #745ff7;
   }
   nav a:visited {
-    color: #d5e0ff;
+    color: #38306b;
   }
   nav a:hover {
-    color: #cc3366;
+    color: #488338;
     
   }
   #wrapper {
@@ -56,7 +57,7 @@
     margin: auto;
     text-align: center;
     text-wrap: balance;
-    background-image: linear-gradient(to bottom, #eb7ca1, #c890eb);
+    background-image: linear-gradient(to bottom, #e8ffef, #a1d478);
     background-repeat: no-repeat;
     height: 100;
   }
@@ -65,14 +66,14 @@
     text-wrap: balance;
   }
   h1 {
-    color: #f9f0fe;
+    color: #ffffff;
     text-align: center;
     font-family: Georgia, "Times New Roman", serif;
     font-size: 220%;
   }
   
   h2 {
-    color: #c890eb;
+    color: #155c0a;
     margin-top: 0;
     font-family: Georgia, "Times New Roman", serif;
     font-size: 200%;
@@ -160,7 +161,7 @@
     height: 100%;
   }
   .name {
-    color: #eb7ca1;
+    color: #7c8feb;
     font-weight: bold;
   }
   #contact {
